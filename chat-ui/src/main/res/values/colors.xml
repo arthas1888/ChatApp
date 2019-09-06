@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#4099FF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="sinch_purple">#63029d</color>
+    <color name="sinch_purple_darker">#ff380258</color>
+    <color name="off_white">#fffafafa</color>
+    <color name="dark_gray">#ffb3b3b3</color>
+    <color name="very_dark_gray">#636363</color>
+    <color name="u_blue_light">#4A90E2</color>
+    <color name="u_blue">#4A90E2</color>
+    <color name="u_blue_darker">#ff31649a</color>
+    <color name="twinder_purple_2">#D01FA4</color>
+    <color name="bold_username">#4D4D4D</color>
+    <color name="faint_real_name">#999999</color>
+    <color name="facebook_blue">#3B5998</color>
+    <color name="main_color_gray">#7d7d7d</color>
+
+    <color name="default_chat_message_background_color_rcv">@color/white</color>
+    <color name="default_chat_message_background_color_send">@color/white</color>
+
+    <color name="default_bubble_color_rcv">@color/u_blue</color>
+    <color name="default_bubble_color_send">@color/white</color>
+
+    <color name="default_tstamp_color_rcv">@color/off_white</color>
+    <color name="default_tstamp_color_send">@color/main_color_gray</color>
+
+    <color name="default_message_color_rcv">@color/white</color>
+    <color name="default_message_color_send">@color/black</color>
+
+    <color name="colorButtonLogin">#0099cc</color>
+
+    <color name="whiteTransparent">#dcffffff</color>
+    <color name="info">#dae9f1</color>
+    <!-- Colors related button -->
+    <color name="btnText">#185698</color>
+    <color name="btnBackground">#84d0fd</color>
+
+    <color name="green_positive_button">#4caf50</color>
+
+    <color name="colorRadioButtonOn">#2980b9</color>
+    <color name="colorRadioButtonOff">#3498db</color>
+
+    <color name="black_overlay">#664D4D4D</color>
+
+    <color name="bar_decoded">#FF00FF00</color>
+    <color name="bar_undecoded">#FFFF0000</color>
+
+    <color name="pink">#ffa5a5</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="expiry">#c6ff8000</color>
+
+
+    <color name="light_gray">#fafafa</color>
+    <color name="gray">#aaa</color>
+
+    <color name="blue_aqua">#6acccb</color>
+    <color name="orange">#fa9c0e</color>
+    <color name="text_tab">#2d1c02</color>
+
+    <color name="gray_label">#4c4c4c</color>
+
+    <color name="back_transparent">#7eeeeeee</color>
+
+    <color name="dark">#000000</color>
+    <color name="red">#ffff4444</color>
+    <color name="orangeIcon">#E57E22</color>
+
+    <color name="colorBlueDisabled">#0086C5</color>
+    <color name="colorGreenDisabled">#58AA1F</color>
+</resources>
